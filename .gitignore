@@ -1,1 +1,16 @@
+# vscode
+.vscode/
+
+# idea
+.idea
+*/.idea/
+
+dist/
+node_modules/
+
+# some local files
+*/.settings/
+*/.DS_Store
+.DS_Store
+
 
